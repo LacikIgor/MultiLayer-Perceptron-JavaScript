@@ -1,7 +1,7 @@
-# MultiLayer-Perceptron-JavaScript
-## A JavaScript implementation of a MultiLayer Perceptron (no dependencies)
+## MultiLayer-Perceptron-JavaScript
+### A JavaScript implementation of a MultiLayer Perceptron (no dependencies)
 
-## Vanilla JavaScript machine-learning on both linear and non-linear datasets:
+### Vanilla JavaScript machine-learning on both linear and non-linear datasets:
 
 * Categorization (softmax)
 * Learning Functions
@@ -10,4 +10,4 @@
 * Potentially unlimited number of input signals (and output categories)
 * Use on client and server side (just add the minified version either to your NodeJS application)
 
-[Click here for an in-depth demonstration](http://www.actorcritic.php5.sk/agents/mlp)
+### [Click here for an in-depth demonstration](http://www.actorcritic.php5.sk/agents/mlp)
