@@ -118,7 +118,7 @@ function MLPGenerator(
     
     if ( weightValues === undefined )
     {
-        this.wValue = initArrayRandVals( this.WeightCount );
+        this.wValue = initMLPRandVals( this.WeightCount );
     }
     else
     {

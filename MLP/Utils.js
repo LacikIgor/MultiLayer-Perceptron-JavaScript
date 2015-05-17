@@ -72,6 +72,16 @@ function initArrayRandVals( size )
     return res;
 } // initArrayRandVals
 
+function initMLPRandVals( size )
+{
+    var res = [];
+    for ( var i = 0; i < size; i++ )
+    {
+        res.push( ( Math.random() * 2 - 1 ) * 0.1 );
+    }
+    return res;
+} // initArrayRandVals
+
 function getArrayToString( arr, name )
 {
     var result = name + ', ';
